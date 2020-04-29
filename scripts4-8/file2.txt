@@ -1,0 +1,25 @@
+/home/alex/:
+total 44
+drwxrwxr-x 2 leha alex 4096 Apr 27 20:49 example
+-rw-rw-r-- 1 leha alex 865 Apr 29 20:13 file1.txt
+-rw-rw-r-- 1 leha alex 0 Apr 29 20:14 file2.txt
+-rw-rw-r-- 1 leha alex 63 Apr 27 20:45 myfele
+drwxrwxr-x 2 leha alex 4096 Apr 27 21:04 sample
+-rwxrwxr-x 1 leha alex 80 Apr 29 13:37 script1.sh
+-rwxrwxr-x 1 leha alex 117 Apr 29 15:01 script2.sh
+-rwxrwxr-x 1 leha alex 100 Apr 29 15:14 script3.sh
+-rwxrwxr-x 1 leha alex 126 Apr 29 15:23 script4.sh
+-rwxrwxr-x 1 leha alex 121 Apr 29 15:41 script5.sh
+-rwxrwxr-x 1 leha alex 109 Apr 29 20:05 script6.sh
+-rwxrwxr-x 1 leha alex 109 Apr 29 19:46 script7.sh
+-rw-rw-r-- 1 leha alex 0 Apr 27 19:40 something
+
+/home/alex/example:
+total 0
+-rw-rw-r-- 1 leha alex 0 Apr 27 20:46 instance
+-rw-rw-r-- 1 leha alex 0 Apr 27 20:49 ouch
+
+/home/alex/sample:
+total 0
+-rw-rw-r-- 1 leha alex 0 Apr 27 21:03 meir
+-rw-rw-r-- 1 leha alex 0 Apr 27 21:04 try
