@@ -1,0 +1,35 @@
+)0[1;37r[m[4l[?7h[39;49m[39;49m[37m[40m[H[J[37m[40m[J[m[39;49m[37m[40m[39;49m[m[35d[0;10;1m[33m[44mGetting file://localhost/home/alex/tmp/scripts/site.html[K[39;49m[m[1;65H[35m[40mState Disability Insurance (p1 of 2)[3;4H[32m[40mSkip to Main Content
+
+[4G[37m[40m(BUTTON) ×
+   [35m[40mSaving your location allows us to provide you with more relevant information.
+[4G[37m[40m____________________ (BUTTON) Set Location
+
+   [32m[40mCA.gov[33m[40m CA.gov logo
+[4G[32m[40mHome[37m[40m [32m[40mLog In
+
+[4G[33m[40mEDD Employment Development Department State of California Home
+
+[4G[37m[40m(BUTTON) Search (BUTTON) Menu
+
+   [35m[40m  * [32m[40mJobs
+[4G[35m[40m  * [32m[40mClaims
+[4G[35m[40m  * [32m[40mEmployers
+[4G[35m[40m  * [32m[40mNewsroom
+[4G[35m[40m  * [32m[40mSearch
+
+[4G[37m[40mCustom Google Search ____________________ (BUTTON) Submit
+   (BUTTON) Close Search
+
+[0;10;1m[33m[44mState Disability Insurance
+
+[0;10m[37m[40mDisability Insurance and Paid Family Leave Benefits
+
+   The [32m[40mCalifornia State Disability Insurance (SDI) program[37m[40m provides short-term Disability
+   Insurance (DI) and Paid Family Leave (PFL) wage replacement benefits to eligible workers
+   who need time off work. You may be eligible for DI if you are unable to work due to
+   non-work-related illness or injury, pregnancy, or childbirth. You may be eligible for PFL
+   to care for a seriously ill family member or to bond with a new child.[23;4H[39;49m[m[1;99H[35m[40m5[23;4H[39;49m[m[36d[37m[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go back.
+ H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list [39;49m[m[35d[0;10;1m[33m[44m(NORMAL LINK) Use right-arrow or <return> to activate.[K[39;49m[m[3;4H[0;10;1m[33m[40mSkip to Main Content[3G[39;49m[m[37d[37m[40m[J[39;49m[m[37;1H
+
+Exiting via interrupt: 2
+

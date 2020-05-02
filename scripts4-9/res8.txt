@@ -1,0 +1,1 @@
+The position of symbol 'a' at $PATH is: 9

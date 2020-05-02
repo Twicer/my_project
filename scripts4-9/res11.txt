@@ -1,0 +1,3 @@
+First example of last directory of PATH: /snap/bin
+Second example of last directory of PATH: /snap/bin
+Third example of last directory of PATH: /snap/bin

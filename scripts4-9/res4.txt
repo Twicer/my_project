@@ -1,0 +1,1 @@
+At my home directory /home/alex 7 subdirectories: .cache sample tmp scripts example .gnupg private-keys-v1.d

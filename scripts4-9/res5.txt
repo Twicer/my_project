@@ -1,0 +1,2 @@
+Input a word:Neglect
+Amount of symbols:7

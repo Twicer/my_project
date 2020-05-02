@@ -1,0 +1,1 @@
+I was at the /home/alex/tmp/scripts at: 12:20:04 using uid=1000(alex)
