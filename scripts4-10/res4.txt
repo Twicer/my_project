@@ -1,0 +1,21 @@
+top - 10:57:34 up  1:12,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  85 total,   1 running,  45 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.3 sy,  0.2 ni, 98.2 id,  1.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  1008800 total,   217368 free,   109304 used,   682128 buff/cache
+KiB Swap:  2017276 total,  2017276 free,        0 used.   750808 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+  964 root      22   2  634920  24648  13796 S  0.0  2.4   0:00.81 snapd
+  952 root      20   0  185944  20500  12604 S  0.0  2.0   0:00.06 unattended-upgr
+  393 root      19  -1  102996  19968  19280 S  0.0  2.0   0:00.13 systemd-journal
+964 (process ID) old priority 2, new priority 2
+top - 10:58:30 up  1:13,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  85 total,   1 running,  45 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.3 sy,  0.2 ni, 98.2 id,  1.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :  1008800 total,   217368 free,   109268 used,   682164 buff/cache
+KiB Swap:  2017276 total,  2017276 free,        0 used.   750844 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
+  964 root      22   2  634920  24648  13796 S  0.0  2.4   0:00.81 snapd
+  952 root      20   0  185944  20500  12604 S  0.0  2.0   0:00.06 unattended-upgr
+  393 root      19  -1  102996  19976  19288 S  0.0  2.0   0:00.13 systemd-journal

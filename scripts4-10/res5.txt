@@ -1,0 +1,6 @@
+Inputed numbers: 1 2 3 4 5
+Square of 1 = 1
+Square of 2 = 4
+Square of 3 = 9
+Square of 4 = 16
+Square of 5 = 25
