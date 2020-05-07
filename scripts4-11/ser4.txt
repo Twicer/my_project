@@ -1,0 +1,5 @@
+Number of processes by user: 
+alex
+8
+Number of processes by user root: 
+75

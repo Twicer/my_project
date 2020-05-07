@@ -1,0 +1,4 @@
+/usr/lib/x86_64-linux-gnu/libicudata.so.60.2 26M
+/usr/lib/gcc/x86_64-linux-gnu/7/cc1plus 25M
+/usr/lib/gcc/x86_64-linux-gnu/7/cc1 23M
+/usr/lib/gcc/x86_64-linux-gnu/7/lto1 22M

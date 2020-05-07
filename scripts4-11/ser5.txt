@@ -1,0 +1,6 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root       993  0.0  2.5 638348 25412 ?        Ssl  05:57   0:00 /usr/lib/snapd/snapd
+root       966  0.0  1.9 185944 20124 ?        Ssl  05:57   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root       394  0.0  1.8 102996 19160 ?        S<s  05:57   0:00 /lib/systemd/systemd-journald
+root       799  0.0  1.7 169100 17284 ?        Ssl  05:57   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         1  0.1  0.8  77832  8764 ?        Ss   05:57   0:01 /sbin/init maybe-ubiquity

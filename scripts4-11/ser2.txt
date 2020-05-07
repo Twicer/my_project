@@ -1,0 +1,6 @@
+Home directory of current user: 
+/home/alex
+Contains Regular files: 
+83
+Hidden files: 
+7
